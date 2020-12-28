@@ -28,4 +28,6 @@ https://www.indiastat.com/rural-and-urban-areas-data/31/urban-population/11995/s
 https://www.kaggle.com/danofer/india-census?select=india-districts-census-2011.csv			-   india census
 
 https://github.com/imdevskp/covid-19-india-data
+
+https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset
  
