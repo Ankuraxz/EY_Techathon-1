@@ -47,11 +47,59 @@
       >
         <span class="navbar-toggler-icon"></span>
       </button>
-      
+      <div class="collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav">
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdownMenuLink"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              States Wise Analysis
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a class="dropdown-item" href="/state-wise-cases.html"
+                >All Cases</a
+              >
+              <a class="dropdown-item" href="/states-by-active-cases.html"
+                >By Active Cases</a
+              >
+              <a class="dropdown-item" href="/states-by-death.html"
+                >By Deaths</a
+              >
+              <a class="dropdown-item" href="/states-by-recovered.html"
+                >By Recovered Cases</a
+              >
+              <a class="dropdown-item" href="/comparison-of-states.html"
+                >Comparison Of States</a
+              >
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdownMenuLink"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              Vaccine Distribution Stages
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <a active class="dropdown-item" href="/four-clusters.html">4 Stages Dashboard</a>
+              <a active class="dropdown-item" href="/five-clusters.html">5 Stages Dashboard</a>
+            </div>
+          </li>
+        </ul>
+      </div>
     </nav>
     <div class="banner-container">
       <img src="/banner-covid.jpg" class="banner-image" />
-      <p>Vitaran - A Covid'19 😷 Vaccine 💊 Delivery 🚚 System</p>
+      <p>Prioritising covid'19 😷 vaccine delivery using <b>Vitaran</b></p>
     </div>
     <div class="container">
       <div class="row mt-2 mb-2">
@@ -59,8 +107,8 @@
           <div class="card text-white bg-secondary mb-3">
             <div class="card-header">Top 10 States</div>
             <div class="card-body">
-              <p class="card-text">
-                Comparison of states with respect to active cases, confirmed cases, recovered cases and death cases. We have taken top 10 states from this comparison for vaccine priority.
+              <p class="card-text text-justify">
+                Comparison of top Indian states with respect to active cases, confirmed cases, recovered cases and death cases. We have taken top 10 states from this comparison for deciding vaccine distribution priority and have made 4 stages and 5 stages distribution plan to cover the whole India in subsequesnt round of vaccination.
               </p>
               <div class="text-center">
                  <a href="/comparison-of-states.html" class="btn btn-primary">See More</a>
@@ -70,12 +118,10 @@
         </div>
         <div class="col-sm-12 col-md-4 mt-2 mb-2">
           <div class="card text-white bg-dark mb-3">
-            <div class="card-header">5 Clusters Dashboard</div>
+            <div class="card-header">5 stages distribution plan</div>
             <div class="card-body">
-              <p class="card-text">
-               Here India is divided on the scale of 0-4 cluster. Here 0 means
-              small and light circle and 4 means large and dark circle. Large
-              circle place has more priority than small circle place.
+              <p class="card-text text-justify">
+ Here Indian Districts are divided into 5 clusters each representing a stage in vaccine distribution. Larger the size of mark or more the intensity of its colour, represents more critical stage. Cluster are defined as 0,1,2,3, 4 with districts marked 4 are most critical and need vaccines on immediate basis followed by districts marked 3, 2,1 and 0 
               </p>
               <div class="text-center">
                  <a href="/five-clusters.html" class="btn btn-secondary">See More</a>
@@ -85,12 +131,10 @@
         </div>
         <div class="col-sm-12 col-md-4 mt-2 mb-2">
           <div class="card text-white bg-success mb-3">
-            <div class="card-header">4 Clusters Dashboard </div>
+            <div class="card-header">4 stages distribution plan </div>
             <div class="card-body">
-              <p class="card-text">
-               Here India is divided on the scale of 0-3 cluster. Here 0 means
-              small and light circle and 3 means large and dark circle. Large
-              circle place has more priority than small circle place.
+              <p class="card-text text-justify">
+               Here Indian Districts are divided into 4 clusters each representing a stage in vaccine distribution. Larger the size of mark or more the intensity of its colour, represents more critical stage. Cluster are defined as 0,1,2,3 with districts marked 3 are most critical and need vaccines on immediate basis followed by districts marked 2,1 and 0
               </p>
               <div class="text-center">
                  <a href="/four-clusters.html" class="btn btn-dark">See More</a>
