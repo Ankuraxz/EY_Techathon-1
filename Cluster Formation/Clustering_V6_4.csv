@@ -1,0 +1,298 @@
+State,District,Confirmed,Recovered,Deceased,Zone,Age Bracket,Transmission Type,Population Density,Transmission rate,Deceased Rate,Predictions
+Andhra Pradesh,Anantapur,67374,66641,597,Orange Zone,Children or adolescent,Local,191,Very High,2,1
+Andhra Pradesh,Chittoor,86248,85087,842,Red Zone,Children or adolescent,Local,191,Very High,3,1
+Andhra Pradesh,East Godavari,123755,122747,636,Orange Zone,Children or adolescent,Local,191,Very High,2,1
+Andhra Pradesh,Guntur,74830,73659,665,Red Zone,Children or adolescent,Local,191,Very High,2,1
+Andhra Pradesh,Krishna,47871,46670,666,Red Zone,Children or adolescent,Local,191,High,2,1
+Andhra Pradesh,Other State,60582,60030,487,Red Zone,Children or adolescent,Local,191,Very High,1,1
+Andhra Pradesh,Other State,2461,2461,0,Orange Zone,Children or adolescent,Local,267,Normal,0,0
+Chhattisgarh,Other State,459,338,55,Orange Zone,Children or adolescent,Local,267,Normal,0,0
+Gujarat,Other State,162,159,3,Orange Zone,Children or adolescent,Local,267,Normal,0,0
+Karnataka,Other State,36,33,3,Orange Zone,Children or adolescent,Local,267,Normal,0,0
+Maharashtra,Other State,855,0,69,Orange Zone,Children or adolescent,Local,267,Normal,0,0
+Rajasthan,Other State,189,150,39,Orange Zone,Children or adolescent,Local,267,Normal,0,0
+Tamil Nadu,Other State,0,0,3,Orange Zone,Children or adolescent,Local,267,Normal,0,0
+West Bengal,Other State,66,63,3,Orange Zone,Children or adolescent,Local,267,Normal,0,0
+Andhra Pradesh,Prakasam,62042,61373,579,Orange Zone,Children or adolescent,Local,191,Very High,2,1
+Andhra Pradesh,S.P.S. Nellore,62110,61145,505,Orange Zone,Children or adolescent,Local,191,Very High,1,1
+Andhra Pradesh,Visakhapatnam,59228,58439,551,Orange Zone,Children or adolescent,Local,191,Very High,2,1
+Andhra Pradesh,West Godavari,93893,93195,538,Orange Zone,Children or adolescent,Local,191,Very High,2,1
+Andhra Pradesh,Y.S.R. Kadapa,55024,54367,461,Orange Zone,Children or adolescent,Local,191,Very High,1,1
+Arunachal Pradesh,Papum Pare,6757,6695,29,Green Zone,Children or adolescent,Local,184,Normal,0,0
+Bihar,Araria,7167,7108,22,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Arwal,2326,2266,12,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Aurangabad,5195,5143,15,Orange Zone,Children or adolescent,Local,185,High,2,1
+Maharashtra,Aurangabad,48032,46068,1213,Orange Zone,Children or adolescent,Local,185,High,2,1
+Bihar,Banka,3462,3332,19,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Begusarai,7750,7579,34,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Bhagalpur,9388,9185,77,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Bhojpur,4984,4903,42,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Buxar,3976,3926,18,Red Zone,Children or adolescent,Local,185,Normal,0,1
+Bihar,Darbhanga,4056,3974,32,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,East Champaran,8334,8224,50,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Gaya,7792,7631,60,Red Zone,Children or adolescent,Local,185,Normal,0,1
+Bihar,Gopalganj,5728,5676,15,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Jamui,3147,3114,10,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Jehanabad,4496,4399,20,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Kaimur,2099,2037,10,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Katihar,7183,7106,12,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Khagaria,3071,3044,12,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Kishanganj,4289,4155,13,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Lakhisarai,3731,3575,9,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Madhepura,4826,4773,17,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Madhubani,7613,7550,33,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Munger,4168,4059,51,Red Zone,Children or adolescent,Local,185,Normal,0,1
+Bihar,Muzaffarpur,11634,11348,45,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Nalanda,8140,7995,56,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Nawada,4177,4023,23,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Patna,49372,46954,380,Red Zone,Children or adolescent,Local,185,High,1,1
+Bihar,Purnia,9273,9216,23,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Rohtas,6699,6609,45,Red Zone,Children or adolescent,Local,185,Normal,0,1
+Bihar,Saharsa,6739,6658,12,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Samastipur,5195,5129,34,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Saran,7159,6907,55,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Sheikhpura,2981,2964,13,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Sheohar,1447,1418,1,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Sitamarhi,4374,4271,15,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Siwan,4686,4603,32,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Supaul,5582,5536,18,Green Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,Vaishali,5425,5303,46,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Bihar,West Champaran,5988,5886,22,Orange Zone,Children or adolescent,Local,185,Normal,0,0
+Chandigarh,Chandigarh,19865,19226,319,Red Zone,Children or adolescent,Local,230,High,1,1
+Chhattisgarh,Durg,22843,20691,568,Green Zone,Children or adolescent,Local,209,High,2,0
+Chhattisgarh,Korba,16047,15803,110,Orange Zone,Children or adolescent,Local,209,High,0,1
+Chhattisgarh,Raipur,52826,48183,722,Red Zone,Children or adolescent,Imported,209,Very High,2,3
+Chhattisgarh,Rajnandgaon,18472,17124,167,Green Zone,Children or adolescent,Imported,209,High,0,3
+Delhi,Delhi,626448,610535,10571,Orange Zone,Senior Citizens,Local,14675,Very High,41,2
+Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,1647,1634,1,Orange Zone,Children or adolescent,Local,200,Normal,0,0
+Dadra and Nagar Haveli and Daman and Diu,Daman,1405,1377,1,Green Zone,Children or adolescent,Local,200,Normal,0,0
+Gujarat,Ahmedabad,57944,52788,2254,Orange Zone,Senior Citizens,Local,213,Very High,8,2
+Gujarat,Anand,2284,2210,17,Red Zone,Children or adolescent,Local,213,Normal,0,1
+Gujarat,Bhavnagar,5835,5684,68,Red Zone,Children or adolescent,Local,213,Normal,0,1
+Gujarat,Chhota Udaipur,870,849,3,Orange Zone,Senior Citizens,Local,213,Normal,0,2
+Gujarat,Gandhinagar,8145,7881,105,Red Zone,Children or adolescent,Local,213,Normal,0,1
+Gujarat,Jamnagar,10179,10008,35,Orange Zone,Children or adolescent,Local,213,Normal,0,0
+Gujarat,Kutch,4073,3842,33,Orange Zone,Children or adolescent,Local,213,Normal,0,0
+Gujarat,Mehsana,6726,6506,38,Orange Zone,Children or adolescent,Local,213,Normal,0,0
+Gujarat,Morbi,3086,2838,18,Green Zone,Children or adolescent,Local,213,Normal,0,0
+Gujarat,Panchmahal,4096,3933,21,Orange Zone,Senior Citizens,Local,213,Normal,0,2
+Gujarat,Patan,4171,4066,53,Orange Zone,Children or adolescent,Local,213,Normal,0,0
+Gujarat,Porbandar,706,694,4,Green Zone,Children or adolescent,Local,213,Normal,0,0
+Gujarat,Rajkot,20348,19156,192,Orange Zone,Children or adolescent,Local,213,High,0,1
+Gujarat,Sabarkantha,2813,2672,13,Orange Zone,Children or adolescent,Local,213,Normal,0,0
+Gujarat,Surat,49686,47616,967,Red Zone,Children or adolescent,Local,213,High,3,1
+Gujarat,Vadodara,25075,23099,236,Red Zone,Senior Citizens,Local,213,High,0,2
+Himachal Pradesh,Chamba,2862,2693,49,Orange Zone,Children or adolescent,Local,333,Normal,0,0
+Himachal Pradesh,Kangra,7785,7177,186,Orange Zone,Senior Citizens,Imported,333,Normal,0,2
+Himachal Pradesh,Mandi,9699,9023,118,Green Zone,Children or adolescent,Local,333,Normal,0,0
+Himachal Pradesh,Una,2747,2560,37,Orange Zone,Children or adolescent,Local,333,Normal,0,0
+Haryana,Ambala,11555,11239,143,Orange Zone,Senior Citizens,Local,654,Normal,0,2
+Haryana,Faridabad,45546,44865,402,Red Zone,Senior Citizens,Local,654,High,1,2
+Haryana,Gurugram,56933,55720,343,Orange Zone,Children or adolescent,Imported,654,Very High,1,3
+Haryana,Hisar,16952,16576,319,Orange Zone,Children or adolescent,Imported,654,High,1,3
+Haryana,Panchkula,10027,9693,144,Orange Zone,Children or adolescent,Local,654,Normal,0,0
+Haryana,Panipat,10544,10213,148,Orange Zone,Children or adolescent,Local,654,Normal,0,0
+Haryana,Sonipat,14558,14333,79,Red Zone,Children or adolescent,Imported,654,High,0,3
+Jharkhand,Ranchi,30628,29572,218,Red Zone,Children or adolescent,Local,190,High,0,1
+Jammu and Kashmir,Bandipora,4654,4540,60,Red Zone,Children or adolescent,Local,200,Normal,0,1
+Jammu and Kashmir,Jammu,23946,22742,355,Orange Zone,Senior Citizens,Imported,200,High,1,2
+Jammu and Kashmir,Srinagar,25422,24391,450,Red Zone,Children or adolescent,Local,200,High,1,1
+Karnataka,Bagalkote,13695,13520,136,Orange Zone,Children or adolescent,Local,197,High,0,1
+Karnataka,Ballari,38882,38138,597,Orange Zone,Children or adolescent,Local,197,High,2,1
+Karnataka,Belagavi,26289,25752,342,Orange Zone,Children or adolescent,Local,197,High,1,1
+Karnataka,Bengaluru Rural,18300,17893,152,Red Zone,Children or adolescent,Local,197,High,0,1
+Karnataka,Bengaluru Urban,389193,377906,4322,Red Zone,Children or adolescent,Local,197,Very High,17,1
+Karnataka,Bidar,7269,7051,171,Orange Zone,Children or adolescent,Local,197,Normal,0,0
+Karnataka,Chamarajanagara,6801,6596,119,Green Zone,Children or adolescent,Local,197,Normal,0,0
+Karnataka,Chikkaballapura,13029,12712,117,Orange Zone,Children or adolescent,Local,197,High,0,1
+Karnataka,Chikkamagaluru,13703,13439,139,Green Zone,Children or adolescent,Local,197,High,0,0
+Karnataka,Chitradurga,14314,14072,68,Orange Zone,Children or adolescent,Local,197,High,0,1
+Karnataka,Dakshina Kannada,32948,31914,734,Orange Zone,Children or adolescent,Local,197,High,2,1
+Karnataka,Davanagere,22041,21689,264,Orange Zone,Children or adolescent,Local,197,High,1,1
+Karnataka,Dharwad,21882,21183,609,Orange Zone,Children or adolescent,Local,197,High,2,1
+Karnataka,Gadag,10920,10753,141,Orange Zone,Children or adolescent,Local,197,Normal,0,0
+Karnataka,Hassan,28033,27434,393,Green Zone,Children or adolescent,Local,197,High,1,0
+Karnataka,Haveri,10965,10757,190,Green Zone,Children or adolescent,Local,197,Normal,0,0
+Karnataka,Kalaburagi,21111,20612,323,Orange Zone,Children or adolescent,Local,197,High,1,1
+Karnataka,Kodagu,5761,5587,71,Green Zone,Children or adolescent,Local,197,Normal,0,0
+Karnataka,Kolar,9731,9428,176,Green Zone,Children or adolescent,Local,197,Normal,0,0
+Karnataka,Koppal,13884,13568,279,Green Zone,Children or adolescent,Local,197,High,1,0
+Karnataka,Mandya,19460,19162,147,Orange Zone,Children or adolescent,Local,197,High,0,1
+Karnataka,Mysuru,52498,51094,1015,Red Zone,Children or adolescent,Local,197,Very High,4,1
+Karnataka,Raichur,14165,13959,158,Green Zone,Children or adolescent,Local,197,High,0,0
+Karnataka,Ramanagara,7381,7282,77,Green Zone,Children or adolescent,Local,197,Normal,0,0
+Karnataka,Shivamogga,22068,21511,348,Green Zone,Children or adolescent,Local,197,High,1,0
+Karnataka,Tumakuru,24587,23887,378,Orange Zone,Children or adolescent,Local,197,High,1,1
+Karnataka,Udupi,23085,22815,188,Green Zone,Children or adolescent,Local,197,High,0,0
+Karnataka,Uttara Kannada,14272,13993,176,Orange Zone,Children or adolescent,Local,197,High,0,1
+Karnataka,Vijayapura,14233,13932,205,Orange Zone,Children or adolescent,Local,197,High,0,1
+Karnataka,Yadgir,10592,10504,61,Green Zone,Children or adolescent,Local,197,Normal,0,0
+Kerala,Alappuzha,58075,53958,243,Orange Zone,Senior Citizens,Local,415,Very High,0,2
+Kerala,Ernakulam,84853,75742,318,Green Zone,Senior Citizens,Local,415,Very High,1,2
+Kerala,Idukki,16862,13816,20,Orange Zone,Children or adolescent,Local,415,High,0,1
+Kerala,Kannur,40258,36431,203,Red Zone,Senior Citizens,Local,415,High,0,2
+Kerala,Kasaragod,24323,22531,86,Orange Zone,Children or adolescent,Local,415,High,0,1
+Kerala,Kollam,60208,55142,220,Orange Zone,Senior Citizens,Local,415,Very High,0,2
+Kerala,Kottayam,52265,45426,152,Red Zone,Senior Citizens,Local,415,Very High,0,2
+Kerala,Kozhikode,87327,81850,297,Orange Zone,Senior Citizens,Local,415,Very High,1,2
+Kerala,Malappuram,91911,86587,346,Orange Zone,Senior Citizens,Local,415,Very High,1,2
+Kerala,Palakkad,48468,43507,134,Orange Zone,Senior Citizens,Local,415,High,0,2
+Kerala,Pathanamthitta,31444,24975,59,Orange Zone,Senior Citizens,Local,415,High,0,2
+Kerala,Thiruvananthapuram,82574,78602,657,Orange Zone,Senior Citizens,Local,415,Very High,2,2
+Kerala,Thrissur,75384,69353,331,Orange Zone,Senior Citizens,Local,415,Very High,1,2
+Kerala,Wayanad,17301,14656,51,Green Zone,Senior Citizens,Local,415,High,0,2
+Ladakh,Leh,7369,7100,84,Orange Zone,Senior Citizens,Local,183,Normal,0,2
+Maharashtra,Ahmednagar,69277,66615,1047,Orange Zone,Children or adolescent,Imported,199,Very High,4,3
+Maharashtra,Mumbai,294660,273634,11132,Red Zone,Children or adolescent,Imported,199,Very High,43,3
+Maharashtra,Nagpur,126112,118358,3212,Red Zone,Children or adolescent,Imported,199,Very High,12,3
+Maharashtra,Nashik,115791,112206,1906,Red Zone,Children or adolescent,Local,199,Very High,7,1
+Maharashtra,Pune,373727,352140,7767,Red Zone,Children or adolescent,Local,199,Very High,30,1
+Maharashtra,Raigad,66432,64410,1498,Orange Zone,Children or adolescent,Imported,199,Very High,5,3
+Maharashtra,Satara,54699,52087,1769,Orange Zone,Children or adolescent,Imported,199,Very High,7,3
+Maharashtra,Solapur,53574,50966,1765,Red Zone,Children or adolescent,Local,199,Very High,6,1
+Maharashtra,Thane,255248,239389,5590,Red Zone,Children or adolescent,Imported,199,Very High,22,3
+Maharashtra,Yavatmal,13888,13100,395,Red Zone,Children or adolescent,Imported,199,High,1,3
+Meghalaya,East Khasi Hills,8264,8016,113,Orange Zone,Senior Citizens,Local,182,Normal,0,2
+Meghalaya,South Garo Hills,197,196,1,Green Zone,Children or adolescent,Local,182,Normal,0,0
+Meghalaya,West Garo Hills,1709,1679,16,Green Zone,Children or adolescent,Local,182,Normal,0,0
+Madhya Pradesh,Bhopal,39601,37022,581,Red Zone,Children or adolescent,Local,188,High,2,1
+Madhya Pradesh,Chhindwara,2683,2581,42,Orange Zone,Children or adolescent,Local,188,Normal,0,0
+Madhya Pradesh,Gwalior,15963,15464,204,Red Zone,Children or adolescent,Local,188,High,0,1
+Madhya Pradesh,Indore,55320,51605,880,Orange Zone,Children or adolescent,Local,188,Very High,3,1
+Madhya Pradesh,Jabalpur,15562,14885,242,Red Zone,Children or adolescent,Imported,188,High,0,3
+Madhya Pradesh,Ujjain,4682,4349,102,Red Zone,Senior Citizens,Local,188,Normal,0,2
+Mizoram,Aizawl,2758,2684,7,Green Zone,Children or adolescent,Local,188,Normal,0,0
+Mizoram,Lunglei,398,378,0,Green Zone,Children or adolescent,Local,188,Normal,0,0
+Mizoram,Saiha,35,35,0,Green Zone,Children or adolescent,Local,188,Normal,0,0
+Odisha,Angul,10941,10710,37,Orange Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Balangir,8542,8380,40,Green Zone,Senior Citizens,Local,195,Normal,0,2
+Odisha,Balasore,12071,11860,99,Orange Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Bargarh,10171,10004,40,Green Zone,Senior Citizens,Local,195,Normal,0,2
+Odisha,Bhadrak,7410,7357,29,Red Zone,Children or adolescent,Local,195,Normal,0,1
+Odisha,Boudh,2776,2752,11,Green Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Cuttack,28773,28445,144,Green Zone,Senior Citizens,Local,195,High,0,2
+Odisha,Deogarh,1281,1259,5,Green Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Dhenkanal,5696,5660,29,Orange Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Gajapati,3977,3943,33,Green Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Ganjam,21811,21543,254,Green Zone,Children or adolescent,Local,195,High,1,0
+Odisha,Jagatsinghpur,9084,9007,38,Orange Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Jajpur,11988,11843,26,Orange Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Jharsuguda,7510,7406,26,Green Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Kalahandi,6308,6248,31,Orange Zone,Senior Citizens,Local,195,Normal,0,2
+Odisha,Kandhamal,5926,5888,33,Green Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Kendrapara,9061,8920,29,Orange Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Kendujhar,7882,7791,37,Green Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Khordha,52742,52277,336,Orange Zone,Senior Citizens,Local,195,Very High,1,2
+Odisha,Koraput,7860,7801,16,Orange Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Malkangiri,5222,5183,27,Green Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Mayurbhanj,13929,13746,92,Orange Zone,Senior Citizens,Local,195,High,0,2
+Odisha,Nabarangapur,5806,5777,16,Orange Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Nayagarh,6457,6389,46,Green Zone,Children or adolescent,Local,195,Normal,0,0
+Odisha,Nuapada,7357,7257,27,Green Zone,Senior Citizens,Local,195,Normal,0,2
+Odisha,Puri,14009,13878,120,Green Zone,Senior Citizens,Local,195,High,0,2
+Odisha,Rayagada,8368,8306,45,Green Zone,Senior Citizens,Local,195,Normal,0,2
+Odisha,Sambalpur,9419,9140,76,Green Zone,Senior Citizens,Local,195,Normal,0,2
+Odisha,Subarnapur,4700,4669,21,Orange Zone,Senior Citizens,Local,195,Normal,0,2
+Odisha,Sundargarh,14720,14276,170,Orange Zone,Senior Citizens,Local,195,High,0,2
+Punjab,Amritsar,14545,13641,558,Orange Zone,Children or adolescent,Local,292,High,2,1
+Punjab,Barnala,2285,2164,64,Orange Zone,Children or adolescent,Local,292,Normal,0,0
+Punjab,Faridkot,3872,3736,74,Orange Zone,Children or adolescent,Local,292,Normal,0,0
+Punjab,Hoshiarpur,7770,7345,312,Orange Zone,Senior Citizens,Local,292,Normal,1,2
+Punjab,Jalandhar,19987,19013,643,Red Zone,Children or adolescent,Local,292,High,2,1
+Punjab,Kapurthala,4748,4455,196,Orange Zone,Children or adolescent,Local,292,Normal,0,0
+Punjab,Ludhiana,24844,23544,968,Red Zone,Senior Citizens,Local,292,High,3,2
+Punjab,Moga,2746,2626,93,Orange Zone,Children or adolescent,Local,292,Normal,0,0
+Punjab,Pathankot,5741,5477,154,Orange Zone,Senior Citizens,Local,292,Normal,0,2
+Punjab,Patiala,15797,15101,482,Red Zone,Senior Citizens,Local,292,High,1,2
+Punjab,Rupnagar,3358,3090,164,Orange Zone,Children or adolescent,Local,292,Normal,0,0
+Punjab,S.A.S. Nagar,18257,16874,342,Orange Zone,Children or adolescent,Local,292,High,1,1
+Punjab,Shahid Bhagat Singh Nagar,2379,2255,83,Orange Zone,Children or adolescent,Local,292,Normal,0,0
+Puducherry,Mahe,1787,1706,8,Green Zone,Senior Citizens,Imported,193,Normal,0,2
+Puducherry,Puducherry,30494,29761,518,Orange Zone,Children or adolescent,Local,193,High,2,1
+Rajasthan,Ajmer,16568,15977,219,Red Zone,Children or adolescent,Local,186,High,0,1
+Rajasthan,Bhilwara,9718,9286,39,Orange Zone,Children or adolescent,Local,186,Normal,0,0
+Rajasthan,Dungarpur,4711,4327,34,Orange Zone,Senior Citizens,Local,186,Normal,0,2
+Rajasthan,Evacuees,61,61,0,Orange Zone,Children or adolescent,Imported,186,Normal,0,3
+Rajasthan,Jaipur,57420,55180,503,Red Zone,Senior Citizens,Local,186,Very High,1,2
+Rajasthan,Jhunjhunu,4523,4438,52,Orange Zone,Children or adolescent,Imported,186,Normal,0,3
+Rajasthan,Jodhpur,43964,42815,291,Red Zone,Senior Citizens,Local,186,High,1,2
+Rajasthan,Kota,18660,17874,166,Red Zone,Senior Citizens,Local,186,High,0,2
+Tamil Nadu,Airport Quarantine,1956,1947,2,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Ariyalur,4633,4577,48,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Chengalpattu,50159,48840,744,Red Zone,Children or adolescent,Local,201,High,2,1
+Tamil Nadu,Chennai,225998,219518,4015,Red Zone,Children or adolescent,Local,201,Very High,15,1
+Tamil Nadu,Coimbatore,52496,51063,654,Orange Zone,Children or adolescent,Local,201,Very High,2,1
+Tamil Nadu,Cuddalore,24707,24292,283,Orange Zone,Children or adolescent,Local,201,High,1,1
+Tamil Nadu,Dharmapuri,6435,6290,53,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Dindigul,10981,10631,197,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Erode,13756,13313,144,Orange Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Kallakurichi,10802,10679,108,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Kancheepuram,28762,28065,434,Orange Zone,Children or adolescent,Local,201,High,1,1
+Tamil Nadu,Kanyakumari,16387,15980,256,Orange Zone,Children or adolescent,Local,201,High,1,1
+Tamil Nadu,Karur,5191,5055,50,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Krishnagiri,7889,7692,116,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Madurai,20573,19959,453,Red Zone,Children or adolescent,Local,201,High,1,1
+Tamil Nadu,Nagapattinam,8182,7917,131,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Namakkal,11250,10951,109,Red Zone,Children or adolescent,Local,201,Normal,0,1
+Tamil Nadu,Nilgiris,7968,7807,46,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Perambalur,2258,2233,21,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Pudukkottai,11419,11203,155,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Railway Quarantine,428,428,0,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Ramanathapuram,6328,6167,134,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Ranipet,15927,15691,181,Red Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Salem,31657,30864,462,Orange Zone,Children or adolescent,Local,201,High,1,1
+Tamil Nadu,Sivaganga,6543,6352,126,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Tenkasi,8277,8070,158,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Thanjavur,17236,16754,238,Red Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Theni,16914,16639,204,Orange Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Thiruvallur,42728,41688,679,Red Zone,Children or adolescent,Local,201,High,2,1
+Tamil Nadu,Thiruvarur,10948,10749,109,Red Zone,Children or adolescent,Local,201,Normal,0,1
+Tamil Nadu,Thoothukkudi,16092,15867,141,Orange Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Tiruchirappalli,14221,13852,176,Orange Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Tirunelveli,15314,14985,211,Orange Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Tirupathur,7464,7275,125,Orange Zone,Children or adolescent,Local,201,Normal,0,0
+Tamil Nadu,Tiruppur,17144,16633,219,Red Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Tiruvannamalai,19169,18818,282,Orange Zone,Children or adolescent,Local,201,High,1,1
+Tamil Nadu,Vellore,20266,19741,340,Red Zone,Children or adolescent,Local,201,High,1,1
+Tamil Nadu,Viluppuram,15023,14804,110,Orange Zone,Children or adolescent,Local,201,High,0,1
+Tamil Nadu,Virudhunagar,16364,16038,229,Red Zone,Children or adolescent,Local,201,High,0,1
+Tripura,North Tripura,2755,2721,16,Orange Zone,Children or adolescent,Local,189,Normal,0,0
+Uttar Pradesh,Agra,10273,9944,170,Red Zone,Children or adolescent,Local,187,Normal,0,1
+Uttar Pradesh,Amroha,4247,4133,50,Red Zone,Senior Citizens,Local,187,Normal,0,2
+Uttar Pradesh,Baghpat,2291,2212,34,Orange Zone,Children or adolescent,Imported,187,Normal,0,3
+Uttar Pradesh,Gautam Buddha Nagar,24992,24516,90,Red Zone,Children or adolescent,Local,187,High,0,1
+Uttar Pradesh,Ghaziabad,26140,25597,102,Orange Zone,Children or adolescent,Local,187,High,0,1
+Uttar Pradesh,Jaunpur,6596,6334,97,Orange Zone,Children or adolescent,Imported,187,Normal,0,3
+Uttar Pradesh,Lucknow,78759,75007,1114,Red Zone,Children or adolescent,Local,187,Very High,4,1
+Uttar Pradesh,Meerut,21811,20450,429,Red Zone,Children or adolescent,Local,187,High,1,1
+Uttar Pradesh,Moradabad,11701,11239,177,Red Zone,Children or adolescent,Imported,187,Normal,0,3
+Uttar Pradesh,Pilibhit,4151,4009,77,Orange Zone,Senior Citizens,Local,187,Normal,0,2
+Uttar Pradesh,Varanasi,22652,21596,438,Red Zone,Children or adolescent,Imported,187,High,1,3
+Uttarakhand,Almora,3072,2777,24,Green Zone,Children or adolescent,Local,239,Normal,0,0
+Uttarakhand,Champawat,1735,1545,8,Green Zone,Children or adolescent,Local,239,Normal,0,0
+Uttarakhand,Dehradun,27397,24738,848,Orange Zone,Senior Citizens,Local,239,High,3,2
+Uttarakhand,Haridwar,13413,12764,147,Red Zone,Senior Citizens,Local,239,High,0,2
+Uttarakhand,Nainital,11411,10207,209,Orange Zone,Children or adolescent,Local,239,Normal,0,0
+Uttarakhand,Pauri Garhwal,5007,4764,57,Orange Zone,Children or adolescent,Local,239,Normal,0,0
+Uttarakhand,Pithoragarh,3229,2796,38,Green Zone,Children or adolescent,Local,239,Normal,0,0
+Uttarakhand,Tehri Garhwal,4126,3742,16,Orange Zone,Children or adolescent,Local,239,Normal,0,0
+Uttarakhand,Udham Singh Nagar,11127,10724,109,Orange Zone,Children or adolescent,Local,239,Normal,0,0
+Uttarakhand,Uttarkashi,3675,3315,16,Orange Zone,Senior Citizens,Local,239,Normal,0,2
+West Bengal,Howrah,34722,33108,1009,Red Zone,Children or adolescent,Local,194,High,4,1
+West Bengal,Kalimpong,2173,2102,24,Red Zone,Children or adolescent,Imported,194,Normal,0,3
+West Bengal,Kolkata,123816,118303,2964,Red Zone,Children or adolescent,Local,194,Very High,11,1
+West Bengal,Nadia,21782,20874,291,Orange Zone,Children or adolescent,Local,194,High,1,1
+West Bengal,North 24 Parganas,117180,112891,2351,Orange Zone,Senior Citizens,Local,194,Very High,9,2
+West Bengal,Purba Medinipur,20162,19410,273,Orange Zone,Senior Citizens,Local,194,High,1,2
+Maharashtra,Beed,17131,16296,523,Orange Zone,Adult,Local,117,High,2,2
+Maharashtra,Bhandara,12789,12032,275,Orange Zone,Adult,Local,139,Normal,1,0
+Maharashtra,Chandrapur,23305,22318,392,Orange Zone,Children or adolescent,Local,72,High,1,1
+Maharashtra,Gadchiroli,8571,8265,92,Orange Zone,Adult,Local,158,Normal,0,0
+Maharashtra,Palghar,46087,45623,911,Orange Zone,Senior Citizens,Local,679,High,3,2
+Maharashtra,Sangli,50185,48095,1769,Red Zone,Adult,Local,80,High,7,1
+Madhya Pradesh,Mandla,1196,1158,10,Red Zone,Children or adolescent,Local,16,Normal,0,1
+Madhya Pradesh,Rewa,3874,3711,33,Red Zone,Adult,Local,16,Normal,0,1
+Madhya Pradesh,Narsinghpur,3427,3333,28,Green Zone,Adult,Local,6,Normal,0,0
+Madhya Pradesh,Guna,1461,1383,26,Orange Zone,Adult,Local,10,Normal,0,0
+Madhya Pradesh,Shivpuri,3512,3426,29,Orange Zone,Children or adolescent,Local,20,Normal,0,0
+Madhya Pradesh,Balaghat,3036,2936,14,Red Zone,Children or adolescent,Local,37,Normal,0,1
