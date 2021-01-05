@@ -1,13 +1,15 @@
 # Vitaran 
+![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fvitaran.netlify.app%2F)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Majestic-C0ders/EY_Techathon)
 ## Prioritize vaccine delivery using AI/ML
+
+### Problem Statement
 https://www.ey.com/en_in/techathon/problem-statement-ii-prioritize-vaccine-delivery-using-ai-ml    #iSolve4aBillion
 
-### REFS
+## Website
+https://vitaran.netlify.app/
+### Reference Datasets
 https://www.kaggle.com/sudalairajkumar/covid19-in-india?select=StatewiseTestingDetails.csv
-
-ICMRTestingDetails.csv
-
-HospitalBedsIndia.csv                         -  less beds more need
 
 https://data.gov.in/catalog/number-government-hospitals-and-beds-rural-and-urban-areas?filters[field_catalog_reference]=95975&format=json&offset=0&limit=6&sort[created]=desc
 
