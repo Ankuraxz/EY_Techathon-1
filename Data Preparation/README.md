@@ -65,7 +65,7 @@ Deceased Rate value is kept as average deceased rate in order to give more impor
 ```Deceased Rate``` column is added in Database2.<br>
 <br>
 <br>
-** Column Names in Final Dataset:**<br>
+###  Column Names in Final Dataset:
 ``` **‘State', 'District', 'Confirmed', 'Recovered', 'Deceased', 'Zone', 'Age Bracket',  'Transmission Type', 'Population Density', 'Transmission rate',  'Deceased Rate'** ```               
 
 
