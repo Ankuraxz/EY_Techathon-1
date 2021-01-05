@@ -47,6 +47,7 @@ Imported is encoded as 0 and Local as 1
 <br>
 ```Population Density``` Column is added in Dataset2 .
 <br>
+
 <h2>-></h2>	This Dataset  https://api.covid19india.org/csv/latest/districts.csv contains number of cases per district each day.
 <br>So we will first calculate number of confirmed cases increasing per day in each district and then will take the average rate of transmission of virus  in each district.
 <br>If  average rate of transmission is > 200  means rate is very high
