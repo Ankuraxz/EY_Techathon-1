@@ -1,6 +1,7 @@
 # Vitaran 
 ![Website](https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fvitaran.netlify.app%2F)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Majestic-C0ders/EY_Techathon)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/667c6484-467c-4553-88ac-ea1fdf320337/deploy-status)](https://app.netlify.com/sites/vitaran/deploys)
 ## Prioritize vaccine delivery using AI/ML
 
 ### Problem Statement
